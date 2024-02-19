@@ -1,3 +1,5 @@
+:source:`docker`
+
 Bienvenido a la documentación de mi Proyecto
 ===================================
 Descripción breve
@@ -28,7 +30,7 @@ Como servidor web donde alojar las páginas escritas en PHP.
 
 Las librerías de PHP para que trabaje con MySQL y con Apache.	
 
-docker [docker](docker)
+
 
 
 Desarrollo
