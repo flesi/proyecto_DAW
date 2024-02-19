@@ -1,5 +1,6 @@
 Bienvenido a la documentación de mi Proyecto
 ===================================
+
 Descripción breve
 --------
 Este proyecto	consiste en analizar, diseñar e implementar	una aplicación web que se encargará de la gestión de servicios de una empresa (Gestión Inventario, Gestión de Problemas, Gestión Financiera, Gestión de Proyectos)
@@ -60,25 +61,12 @@ Este Proyecto Fin de Ciclo deberá estar acabado y listo	paraser	defendido al fi
 
    /tutorial/index
    /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
-   /intro/import-guide
-   /config-file/index
-   /examples
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: 💡 Explanation
 
-   /choosing-a-site
-   /integrations
-   /downloadable-documentation
-   /environment-variables
-   /subprojects
-   /localization
-   /explanation/advanced
-   /explanation/methodology
-   /security-implications
 
 .. toctree::
    :maxdepth: 2
@@ -101,14 +89,6 @@ Este Proyecto Fin de Ciclo deberá estar acabado y listo	paraser	defendido al fi
 
    /reference/features
    /config-file/v2
-   /builds
-   /build-customization
-   /server-side-search/syntax
-   /faq
-   /api/index
-   /changelog
-   /about/index
-   Developer Documentation <https://dev.readthedocs.io>
 
 .. meta::
    :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
@@ -117,11 +97,6 @@ Este Proyecto Fin de Ciclo deberá estar acabado y listo	paraser	defendido al fi
 .. raw:: html
 
    <a style="display: none;" rel="me" href="https://fosstodon.org/@readthedocs">Mastodon</a>
-
-Read the Docs simplifies software documentation
-by building, versioning, and hosting of your docs, automatically.
-Treating documentation like code keeps your team in the same tools,
-and your documentation up to date.
 
 |:arrows_counterclockwise:| Up to date documentation
     Whenever you push code to Git,
@@ -160,15 +135,6 @@ We have a few places for you to get started:
   Using documentation tools like Sphinx or MkDocs for the first time or importing an existing project?
   We have the tutorials to get you started!
 
-.. TODO: This above item needs its article to be finished in a separate PR
-.. because of what seems to be a bug in Sphinx, we get two <dl> items
-.. if we put comments between items.
-.. https://github.com/readthedocs/readthedocs.org/pull/10071
-.. This page isn't ready for front page treatment
-.. doc:`Why use a dedicated documentation platform? </integrations>`
-.. An introduction to some of the most important reasons for using a *Documentation CI* and build *docs as code*.
-
-
 Explanation
 -----------
 
@@ -191,28 +157,6 @@ Get a high-level overview of our platform:
 💡 :doc:`All explanation articles </explanation/index>`
   Browse all our explanation articles.
 
-
-How-to guides
--------------
-
-Need to get something specific done?
-These guides provide step-by-step instructions in key areas to get you up to speed faster:
-
-.. Descriptions here are active, learn, setup, etc.
-.. The chosen sample of how-tos is intended reflect to width of the how-to section
-.. i.e. NOT only what is most popular or easiest for beginners.
-
-🪄 :doc:`/guides/pull-requests`
-  Setup pull request builds and enjoy previews of each commit.
-
-🪄 :doc:`/analytics`
-  Learn more about how users are interacting with your documentation.
-
-🪄 :doc:`/guides/cross-referencing-with-sphinx`
-  Learn how to use cross-references in a Sphinx project.
-
-🪄 :doc:`All how-to guides </guides/index>`
-  Browser the entire catalog for many more how-to guides.
 
 Reference
 ---------
