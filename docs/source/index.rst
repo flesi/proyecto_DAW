@@ -1,6 +1,20 @@
 Bienvenido a la documentación de mi Proyecto
 ===================================
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 PRUEBAS
+
+   /index
+   /docker
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💡 Explanation
+
+
 Descripción breve
 --------
 Este proyecto	consiste en analizar, diseñar e implementar	una aplicación web que se encargará de la gestión de servicios de una empresa (Gestión Inventario, Gestión de Problemas, Gestión Financiera, Gestión de Proyectos)
@@ -54,18 +68,7 @@ Este Proyecto Fin de Ciclo deberá estar acabado y listo	paraser	defendido al fi
 
 
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 🚀 Tutorials
 
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 💡 Explanation
 
 
 .. toctree::
