@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Proyecto DAW - Gestión Servicios'
+copyright = '2024, JLROMERO'
+author = 'José Luis Romero'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0'
+version = '0.0.0'
 
 # -- General configuration
 
